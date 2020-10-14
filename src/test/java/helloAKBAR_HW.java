@@ -22,5 +22,6 @@ public class helloAKBAR_HW {
 
 
         //karistir ortaligi mixer main conflict2
+        //olacak tabiki conflict!!!!DSAda
     }
 }
