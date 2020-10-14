@@ -18,12 +18,8 @@ public class helloAKBAR_HW {
         // this time im gonna make this conflict
 
 //bu satiri feature1 e yaziyorum
-
-
-        // lets make some conflict commit1 for main
-
-
-        //karistir ortaligi mixer main conflict2
+ // lets make some conflict commit1 for main
+//karistir ortaligi mixer main conflict2
         //olacak tabiki conflict!!!!DSAda
     }
 }
