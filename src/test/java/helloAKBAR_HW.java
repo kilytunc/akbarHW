@@ -12,7 +12,7 @@ public class helloAKBAR_HW {
         //this is the point that feature1 came --> first commit on feature1
 
         //for now im just working on only one class so --> second commit with Feature1 Branch
-
+        // HADI MAINDEN ORTALIGI KARISTIRALIM HAHAHAHAHAHAHA
         // this line is --> 3. commit feature1
 
         // this time im gonna make this conflict
